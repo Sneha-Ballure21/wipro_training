@@ -1,3 +1,4 @@
+/*print rectangle trinagle pattern */
 #include<stdio.h>
 int main()
     {

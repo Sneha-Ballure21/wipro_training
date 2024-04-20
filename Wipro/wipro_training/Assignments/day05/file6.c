@@ -1,3 +1,4 @@
+/*print the sum of even and sum of odd values between 1 to 50*/
 #include<stdio.h>
 int main()
     {
@@ -15,8 +16,8 @@ int main()
         }
         i=i+1;
     }
-    printf("\nEvenSum:%d",sumofeven);
-    printf("\nOddSum:%d\n",sumofodd);
+    printf("\nSum of Even numbers:%d",sumofeven);
+    printf("\nSum of odd numbers:%d\n",sumofodd);
     return 0;
     printf("\n\n");
 }
